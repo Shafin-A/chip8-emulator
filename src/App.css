@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: #1c1f26;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.controls {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.display {
+    margin-top: 20px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
