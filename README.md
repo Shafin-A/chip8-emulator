@@ -31,7 +31,6 @@ cd chip8-emulator
 
 ```bash
 npm install
-Start the development server:
 ```
 
 ### Start the development server:
